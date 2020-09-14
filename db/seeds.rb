@@ -41,7 +41,8 @@ Person.create(
     According to police, Garner had a heart attack while being transported to Richmond University Medical Center. He was pronounced dead at the hospital one hour later.",
     aftermath: "On August 19 2014, Richmond County (Staten Island) District Attorney Daniel M. Donovan, Jr. brought against Pantaleo to a grand jury, saying that after considering the medical examiner's findings, his office decided 'it is appropriate to present evidence regarding circumstances of his death to a Richmond County Grand Jury.'
     On September 29, the grand jury began hearing evidence in the Garner case. On November 21, Pantaleo testified before the grand jury for about two hours. After considering the case for two months, the grand jury decided on December 3rd, 2014 not to indict Pantaleo.
-    Under New York law, most of the grand jury proceedings were kept secret, including the exact charges sought by the prosecutor, the autopsy report, and transcripts of testimony. Attempts by the New York Civil Liberties Union and others to gain release of that information have been unsuccessful."
+    Under New York law, most of the grand jury proceedings were kept secret, including the exact charges sought by the prosecutor, the autopsy report, and transcripts of testimony. Attempts by the New York Civil Liberties Union and others to gain release of that information have been unsuccessful.",
+    image: "https://www.nyclu.org/sites/default/files/styles/featured_image_580x386/public/field_image/eric_garner.jpg?itok=gimlunO2"
 )
 
 Person.create(
@@ -59,7 +60,8 @@ Person.create(
     The first shot hit McDonald, who spun and fell to the ground. As McDonald lay on the ground, still holding the knife, Van Dyke fired more shots into him. In total, Van Dyke fired 16 shots at McDonald in 14–15 seconds, expending the maximum capacity of his 9 mm semi-automatic firearm.
     Van Dyke was on the scene for less than 30 seconds before opening fire and began shooting approximately six seconds after exiting his car. The first responding officer said that he did not see the need to use force, and none of the at least eight other officers on the scene fired their weapons.",
     aftermath: "When a court ordered the police to release a dash cam video of the shooting thirteen months later, on November 24, 2015, it showed McDonald had been walking away from the police when he was shot.
-    That same day, Officer Van Dyke was charged with first-degree murder and initially held without bail at the Cook County Jail. He was released on bail on November 30. The city reached a settlement with McDonald's family. On October 5, 2018, Van Dyke was found guilty of second-degree murder, as well as 16 counts of aggravated battery with a firearm."
+    That same day, Officer Van Dyke was charged with first-degree murder and initially held without bail at the Cook County Jail. He was released on bail on November 30. The city reached a settlement with McDonald's family. On October 5, 2018, Van Dyke was found guilty of second-degree murder, as well as 16 counts of aggravated battery with a firearm.",
+    image: "https://www.wwaytv3.com/wp-content/uploads/2019/01/1280x960_51125P00-WQHYE-e1547756750572-696x521.jpg"
 )
 
 Person.create(
@@ -78,7 +80,8 @@ Person.create(
     Liang turned himself in to authorities the next day to be arraigned on the charges. Liang was convicted of manslaughter and official misconduct on February 11, 2016, and faced up to 15 year of prison time. He was expected to appeal while he remained free without bail.
     Due to the fact that Liang, an Asian cop, became the first NYPD officer to be convicted of an on-duty shooting in over a decade, the conviction galvanized the Chinese community in New York City and across the United States.[4] Many felt that Liang was being used as a scapegoat, and Chinese Americans used WeChat on a massive scale along with Facebook, Twitter, and email to organize rallies in major cities.
     Peter Liang appealed the court's decision.
-    On March 28, 2016, the prosecuting Brooklyn District Attorney Kenneth P. Thompson recommended to Judge Danny Chun that Liang serve only house arrest and community service for his sentence. On April 19, 2016, Brooklyn Supreme Court Justice Danny Chun sentenced Peter Liang to five years of probation and 800 hours community service, after downgrading his manslaughter conviction to criminally negligent homicide."
+    On March 28, 2016, the prosecuting Brooklyn District Attorney Kenneth P. Thompson recommended to Judge Danny Chun that Liang serve only house arrest and community service for his sentence. On April 19, 2016, Brooklyn Supreme Court Justice Danny Chun sentenced Peter Liang to five years of probation and 800 hours community service, after downgrading his manslaughter conviction to criminally negligent homicide.",
+    image: "https://www.blackpast.org/wp-content/uploads/1547745209-9865-akai-gurley.jpg"
 )
 
 Person.create(
@@ -101,7 +104,8 @@ Person.create(
     Rice died the following day at MetroHealth Medical Center. The medical examiner stated that the cause of death was a gunshot wound to the torso, with injuries to major vessels, the intestines, and the pelvis.",
     aftermath: "In the aftermath of the shooting it was revealed that Loehmann, in his previous job as a police officer in the Cleveland suburb of Independence, had been deemed an emotionally unstable recruit and unfit for duty.
     Loehmann did not disclose this fact on his application to join the Cleveland police, and the Cleveland police never reviewed his previous personnel file before hiring him. In 2017, following an investigation, Loehmann was fired for withholding this information on his application.
-    A review by retired FBI agent Kimberly Crawford found that Rice's death was justified and Loehmann's 'response was a reasonable one.'"
+    A review by retired FBI agent Kimberly Crawford found that Rice's death was justified and Loehmann's 'response was a reasonable one.'",
+    image: "https://static01.nyt.com/images/2015/01/22/us/CLEVELAND-web3/CLEVELAND-web3-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
 )
 
 Person.create(
@@ -117,7 +121,8 @@ Person.create(
     Days, who appears to recognize Reid, as he is heard calling him by his first name, retrieves a large silver handgun from the glove compartment. Days continues to warn Reid to not move, as Reid continues to move his hands around inside the vehicle.
     Several times, Days exclaims, 'He's reaching for something!' As the situation intensifies, someone in the vehicle can be heard telling the officers, 'I'm not reaching for nothing. I ain't got no reason to reach for nothing.' Reid then tells Days, 'I'm getting out and getting on the ground.' The officer responds, 'No you're not, stay right there, don't move.'
     A struggle ensues as Reid tries to push the door open, and the officer attempts to keep the door closed. Days steps back, and Reid pushes the door open, gets up, and exits the car with his hands at chest level. Days backs up and fires as Reid exits the vehicle. Reid reacts to the shots by moving his hands upwards. Worley fires one shot, and Reid is killed. Reid was unarmed at the time.",
-    aftermath: "According to a statement from the Cumberland County Prosecutor's Office, the two officers told investigators that they feared for their lives, believing that Reid was reaching for a weapon. On August 20, 2015, a grand jury voted not to file charges against the two officers involved in the shooting."
+    aftermath: "According to a statement from the Cumberland County Prosecutor's Office, the two officers told investigators that they feared for their lives, believing that Reid was reaching for a weapon. On August 20, 2015, a grand jury voted not to file charges against the two officers involved in the shooting.",
+    image: "https://epmgaa.media.clients.ellingtoncms.com/img/photos/2015/02/12/jerame-c-reid_t580.jpg?8f1b5874916776826eb17d7e67de7278c987ca33"
 )
 
 Person.create(
@@ -142,7 +147,8 @@ Person.create(
     On May 2, 2017, as part of a plea agreement, Slager pleaded guilty to deprivation of rights under color of law (18 USC § 242). In return for the guilty plea, the charges of obstructing justice and use of a firearm during a crime of violence were dismissed.
     On December 7, 2017, U.S. District Judge David C. Norton sentenced Slager to 20 years in prison. Although defense attorneys had argued for voluntary manslaughter, the judge agreed with prosecutors that the 'appropriate underlying offense' was second-degree murder.
     Because there is no parole in the federal justice system, Slager will likely remain in prison about 18 years after credit for time served in jail. He began serving his sentence in Colorado's Federal Correctional Institution, Englewood in February 2018. An appeal for reduction of sentence was denied in January 2019.
-    As of 2020, Slager, Federal Bureau of Prisons #31292-171, is still at FCI Englewood; his earliest possible release is August 16, 2033."
+    As of 2020, Slager, Federal Bureau of Prisons #31292-171, is still at FCI Englewood; his earliest possible release is August 16, 2033.",
+    image: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/1/8a/18a2f634-18aa-11e7-bf21-7bc0c5c57ffb/58e2ad35a7c58.image.jpg"
 )
 
 Person.create(
@@ -165,7 +171,8 @@ Person.create(
     The United States Department of Justice opened a civil rights investigation on July 7, 2016. On May 2, 2017, it was subsequently announced the department would not bring charges against the officers involved.
     After the Department of Justice announced that it would not charge the 2 officers, Louisiana attorney general Jeff Landry announced that the state of Louisiana would begin an investigation.
     In a statement, Landry wrote 'The USDOJ’s review of this matter was to determine violations of federal law: specifically, federal civil rights laws. To date, this matter has not been investigated or reviewed for possible violations of the Louisiana Criminal Code. Therefore, this matter now needs to be investigated for possible state criminal violations.'
-    In March 2018, Landry's office announced it would not bring charges against the officers stating that they acted in a 'reasonable and justifiable manner'. On March 30, 2018, officer Salamoni was fired for violating use of force policies, and Lake was suspended for three days for losing his temper."
+    In March 2018, Landry's office announced it would not bring charges against the officers stating that they acted in a 'reasonable and justifiable manner'. On March 30, 2018, officer Salamoni was fired for violating use of force policies, and Lake was suspended for three days for losing his temper.",
+    image: "https://theundefeated.com/wp-content/uploads/2016/07/alton-sterling-3-e1467824438750.jpg?w=1024"
 )
 
 Person.create(
@@ -188,7 +195,8 @@ Person.create(
     The police dashcam video shows that 40 seconds elapsed between when Yanez first started talking to Castile through the car window and when Yanez began shooting at him.",
     aftermath: "Five months after the incident, Yanez was charged with second-degree manslaughter and two counts of dangerous discharge of a firearm.
     After five days of deliberation, he was acquitted of all charges in a jury trial on June 16, 2017. After the verdict, Yanez was immediately fired by the City of Saint Anthony.
-    As revealed by the Associated Press a few weeks later, Yanez received $48,500 as part of his separation agreement with the city, in addition to payment for unused compensatory time."
+    As revealed by the Associated Press a few weeks later, Yanez received $48,500 as part of his separation agreement with the city, in addition to payment for unused compensatory time.",
+    image: "https://media1.s-nbcnews.com/j/newscms/2016_27/1610311/160707-philando-castille-03_90f485eec00334de1b2ca279c68fa9ec.fit-760w.jpg"
 )
 
 Person.create(
@@ -206,5 +214,6 @@ Person.create(
     Isnora said he thought he saw Guzman reach for a gun. He yelled a warning to the other policemen, and they opened fire on the car. Five policemen joined in, firing about 50 bullets into Bell's car.
     Witness accounts of the event conflict with the account provided by police. According to Joseph Guzman, the plainclothes detectives never identified themselves as they approached with their weapons drawn.
     According to the New York Daily News, witnesses claimed the officers failed to warn Bell before opening fire, beginning to shoot as soon as they left their cars.",
-    aftermath: "Three of the five detectives involved in the shooting went to trial on charges of first- and second-degree manslaughter, first- and second-degree assault, and second-degree reckless endangerment; they were found not guilty."
+    aftermath: "Three of the five detectives involved in the shooting went to trial on charges of first- and second-degree manslaughter, first- and second-degree assault, and second-degree reckless endangerment; they were found not guilty.",
+    image: "https://www.nydailynews.com/resizer/axlWdw2-tiH_-MMMHFJy-d0j7yI=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3AU63LOVAT753VDVV4EAOAQ4BA.jpg"
 )
