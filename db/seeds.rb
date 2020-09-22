@@ -217,3 +217,63 @@ Person.create(
     aftermath: "Three of the five detectives involved in the shooting went to trial on charges of first- and second-degree manslaughter, first- and second-degree assault, and second-degree reckless endangerment; they were found not guilty.",
     image: "https://www.nydailynews.com/resizer/axlWdw2-tiH_-MMMHFJy-d0j7yI=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3AU63LOVAT753VDVV4EAOAQ4BA.jpg"
 )
+
+Person.create(
+    name: "Aaron Bailey",
+    deathdate: Date.new(2017, 6, 29),
+    incident_date: Date.new(2017, 6, 29),
+    age: 45,
+    location: "Indianapolis, IN",
+    police_involved: ["Michal P. Dinnsen", "Carlton J. Howard"],
+    details: "Aaron Bailey, 45, was shot and killed June 29, 2017, by two Indianapolis Metropolitan Police Department officers following a late-night traffic stop and brief vehicle pursuit that ended in Bailey crashing his vehicle.
+    The officers, Michal P. Dinnsen and Carlton J. Howard, fired 11 shots into the side and back of the vehicle. They said they saw Bailey reaching toward the center console, where they feared a gun may have been stored. 
+    Four of the rounds struck Bailey in the back. No gun was found.",
+    aftermath: "Following a criminal investigation, a special prosecutor cleared both officers of criminal charges. An internal investigation by IMPD, though, led to the  step of IMPD Chief Bryan Roach attempting to fire Dinnsen and Howard.
+    The Civilian Police Merit Board rejected Roach's recommendation and restored both officers to IMPD.",
+    image: "https://pbs.twimg.com/media/DcwesrkX4AAgRDJ.jpg"
+)
+
+Person.create(
+    name: "Sandra Bland",
+    birthdate: Date.new(1987, 2, 7),
+    deathdate: Date.new(2015, 7, 13),
+    incident_date: Date.new(2015, 7, 10),
+    age: 28,
+    location: "Waller County, TX",
+    police_involved: ["Brian Encinia"],
+    details: "On July 10, a Texas trooper, Brian Encinia, pulled over Bland for allegedly failing to signal while changing lanes. A dashboard camera from the police car recorded the stop.
+    The video shows the stop was calm at first, but it escalated once the trooper asked Bland to put out a cigarette. Bland asked, 'I'm in my car. Why do I have to put out my cigarette?' The trooper responded by asking her to get out of the car.
+    When Bland didnt comply, Encinia opened her car door and attempted to pull her out. When that didn't work, Encinia pulled out his stun gun, aimed it at Bland, and said, 'I will light you up.' At that point, Bland got out of the car. Encinia then arrested Bland off-camera.
+    Bland can be heard insulting Encinia, and complaining that he was treating her roughly. Encinia said — again, off-camera — that Bland was resisting arrest. A female trooper apparently joins Encinia sometime during the arrest, and helps him.
+    'You just slammed me, knocked my head to the ground,' Bland told Encinia. 'I got epilepsy, you motherfucker.' 'Good,' Encinia said. 'Good.'
+    Encinia can be heard telling another trooper in the video that Bland 'started yanking away, then kicked me, so I took her straight to the ground.'
+    The dashcam video and another video of the arrest taken by a bystander never show Bland attacking Encinia, although it may have happened off-camera. After the arrest, Bland was taken to the Waller County jail, allegedly for assaulting Encinia. Three days later, she was found dead in her jail cell. Officials claim the death was suicide by hanging with a plastic bag.",
+    aftermath: "Texas authorities and the FBI conducted an investigation into Bland's death and determined the Waller County jail did not follow required policies, including time checks on inmates and ensuring that employees had completed required mental health training.
+    In December 2015, a grand jury declined to indict the county sheriff and jail staff for a felony relating to Bland's death. The following month, Encinia was indicted for perjury for making false statements about the circumstances surrounding Bland's arrest, and he was subsequently fired by the Texas Department of Public Safety (DPS).
+    In September 2016, Bland's mother settled a wrongful death lawsuit against the county jail and police department for $1.9 million and some procedural changes. In June 2017, the perjury charge against Encinia was dropped in return for his agreement to permanently end his law enforcement career.
+    In 2019, Bland's cell phone video became available to the public and to Bland's family for the first time. The video was obtained and shown by Dallas news station WFAA. This video was not available during the civil trials.",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandra_Bland_re-crop.jpg/180px-Sandra_Bland_re-crop.jpg"
+)
+
+Person.create(
+    name: "Elijah McClaine",
+    birthdate: Date.new(1996, 2, 25),
+    deathdate: Date.new(2019, 8, 30),
+    incident_date: Date.new(2019, 8, 24),
+    age: 24,
+    location: "Aurora, CO",
+    police_involved: ["Nathan Woodyard", "Jason Rosenblatt", "Randy Roedema"],
+    details: "On the evening of August 24, 2019, an Aurora citizen called 9-1-1 after seeing McClain walking down the street wearing a ski mask and flailing his arms. Friends of McClain interviewed after the incident speculated that this arm-flailing was most likely just dancing, as he is believed to have been listening to music at the time of the call. The 9-1-1 caller affirmed during the call that he did not believe McClain was armed and that he did not believe that anyone, including McClain, was in immediate danger.
+    According to the police report, McClain resisted when confronted by the responding police officers, and Officers Woodyard and Rosenblatt heard Officer Roedema shout 'he is going for your gun'. An attorney representing McClain's family said the officers involved slammed McClain into a wall immediately after apprehending him.
+    Roedema said that McClain 'reached for and grabbed the grip of Rosenblatt's gun that was holstered'. There was no visual body-camera footage of McClain's alleged reach for the gun, which the officers explained by stating that all of their cameras had fallen off.
+    However, the cameras continued to record audio, and one officer can be heard to say he did not remember feeling McClain go for his gun. During the recording, when one of the body cameras was still attached to an officer, another officer can be heard telling him to move his camera.
+    The three police officers held McClain on the ground for 15 minutes. McClain was clearly in distress while restrained, sobbing and repeatedly saying 'I can't breathe'. He vomited several times, for which he apologized, saying: 'I'm sorry, I wasn't trying to do that, I can't breathe correctly.'
+    While McClain's arms were handcuffed behind his back, Woodyard applied a carotid control hold, which intentionally cuts off blood flow to the brain by compressing the carotid arteries in the neck, rendering McClain briefly unconscious. One officer threatened he would have his police dog bite McClain as he lay handcuffed and pinned to the ground.
+    After McClain was restrained more officers arrived and audio of the conversation records them saying that McClain was 'acting crazy', that he was 'definitely on something', and that he had attacked them with 'incredible, crazy strength' when they tried to restrain him. They also said that at one point three officers were on top of him.
+    Paramedics injected him with 500 mg of ketamine as a sedative allowable in Colorado for a condition called excited delirium. McClain suffered a cardiac arrest while being taken to the hospital. He was pronounced brain dead on August 27 and died three days later, on August 30, 2019.",
+    aftermath: "On August 28, 2019, all three Aurora Police officers involved at the scene were put on paid administrative leave. Adams County District Attorney Dave Young later determined that none of the three officers—Nathan Woodyard, Jason Rosenblatt and Randy Roedema—committed any criminal acts, and no charges were filed against them. The police body camera footage and audio of the initial 9-1-1 call were released publicly by the Aurora Police Department on November 22, 2019.
+    In February 2020, Aurora City Manager Jim Twombly announced that he would begin a Critical Incident Review on the case to investigate how police and fire departments reacted during the incident. He also announced an audit on the body cameras of the Aurora Police Department to further investigate how well Aurora police officers comply with body camera policies. At that time he said that a review of the incident found that the force applied during the encounter was consistent with training as determined by the Force Review Board.
+    On June 24, 2020, after a social media outcry and Aurora lawmakers' requests for a new, third-party investigation into McClain's death, Colorado Governor Jared Polis announced his administration would reexamine the case.
+    On June 29, the interim police chief announced that multiple officers had been placed on administrative leave and were under investigation after photos of them surfaced that had been taken near the site where McClain died. The photos, taken in October 2019, show police officers posing inappropriately and reenacting the carotid restraint used on McClain before his death. In July, three officers were fired from the department in relation to the photos, while one officer resigned.",
+    image: "https://i1.wp.com/www.denverpost.com/wp-content/uploads/2019/08/elijah-mcclain-2.jpg?fit=620%2C9999px&ssl=1"
+)
