@@ -78,7 +78,7 @@ Person.create(
     Upon entering, Liang said he heard 'a quick sound' to his left which startled him. He turned left and 'it just went off when my whole body tensed up', Liang testified. It was reported that Gurley actually ran after hearing the gunshot, and didn't realize he was bleeding until collapsing on the fifth floor.",
     aftermath: "On February 10, 2015, Liang was indicted by a grand jury (seven men and five women) for manslaughter, assault, and other criminal charges (five counts total) after grand jury members were shown footage of the unlit Pink house, and passed around the 9mm Glock used in the shooting, testing the possibility of equipment failure - concluding that the 11.5-pound (51-newton) trigger could not have been fired unintentionally.
     Liang turned himself in to authorities the next day to be arraigned on the charges. Liang was convicted of manslaughter and official misconduct on February 11, 2016, and faced up to 15 year of prison time. He was expected to appeal while he remained free without bail.
-    Due to the fact that Liang, an Asian cop, became the first NYPD officer to be convicted of an on-duty shooting in over a decade, the conviction galvanized the Chinese community in New York City and across the United States.[4] Many felt that Liang was being used as a scapegoat, and Chinese Americans used WeChat on a massive scale along with Facebook, Twitter, and email to organize rallies in major cities.
+    Due to the fact that Liang, an Asian cop, became the first NYPD officer to be convicted of an on-duty shooting in over a decade, the conviction galvanized the Chinese community in New York City and across the United States. Many felt that Liang was being used as a scapegoat, and Chinese Americans used WeChat on a massive scale along with Facebook, Twitter, and email to organize rallies in major cities.
     Peter Liang appealed the court's decision.
     On March 28, 2016, the prosecuting Brooklyn District Attorney Kenneth P. Thompson recommended to Judge Danny Chun that Liang serve only house arrest and community service for his sentence. On April 19, 2016, Brooklyn Supreme Court Justice Danny Chun sentenced Peter Liang to five years of probation and 800 hours community service, after downgrading his manslaughter conviction to criminally negligent homicide.",
     image: "https://www.blackpast.org/wp-content/uploads/1547745209-9865-akai-gurley.jpg"
@@ -340,4 +340,53 @@ Person.create(
     During the week of August 2, the DA's office applied to obtain a search warrant to gain information about the fundraising site set up for Rolfe, attempting to obtain information including on who had established the site, how much money had been raised, and where the money went, representing it wanted the information to support a possible bond violation charge. One of Rolfe's attorneys condemned the request stating, ‘...he [DA Howard] sought to uncover the private information of Americans who donated to Garrett Rolfe’s defense because they believed in his innocence.’ Subsequently, a judge denied the warrant application.
     On August 4, the day Rolfe's attorneys filed the lawsuit for reinstatement, the DA's office filed a motion to revoke Rolfe's bond, alleging that Rolfe had traveled to Florida without permission. Rolfe's attorneys filed a response with the court stating the bond conditions neither placed Rolfe on house arrest/home confinement, nor was he prohibited from traveling out of state, and that they had, as a courtesy, notified prosecutors of his travel via email prior to traveling. On August 12, the presiding judge refused to revoke Rolfe's bond, but amended it prohibiting out of state travel.",
     image: "https://s.abcnews.com/images/US/rayshard-brooks-portrait-1-ht-ps-200615_hpMain_2_4x5_608.jpg"
+)
+
+Person.create(
+    name: "Atatiana Jefferson",
+    birthdate: Date.new(1990, 11, 28),
+    deathdate: Date.new(2019, 10, 12),
+    incident_date: Date.new(2019, 10, 12),
+    age: 28,
+    location: "Fort Worth, TX",
+    police_involved: ["Aaron Dean"],
+    details: "Atatiana Koquice Jefferson, a 28-year-old woman, was fatally shot in her home by a police officer in Fort Worth, Texas, United States, in the early morning of October 12, 2019. Police arrived at her home after a neighbor called a non-emergency number, stating that Jefferson's front door was open.
+    Jefferson's eight-year-old nephew told the authorities that while playing video games they heard noises outside the window. Jefferson took her gun from her purse and pointed it at the window. According to the Jefferson family attorney Lee Merritt, the firearm was lawfully owned and Jefferson had a concealed carry license.
+    Police body camera footage showed that when she came to her window to observe police outside her home, Officer Aaron Dean shot through it and killed her.",
+    aftermath: "Police officials stated that the officer fired after perceiving a threat. Fort Worth Police Chief Ed Kraus stated that Dean resigned before he could be fired for what Kraus said included violating departmental policies on use of force, de-escalation, and unprofessional conduct. The separation paperwork for Dean is to be sent to the Texas Commission on Law Enforcement, and it would reflect that he was dishonorably discharged from the department.
+    Based on footage from Dean's body camera which captured the shooting, a warrant was issued for his arrest. He was arrested at his attorney's office on October 14, 2019 and charged with murder. He was given a $200,000 bond, which he posted, and was released about three hours later. Kraus said that Dean had not provided a written statement or answered questions.
+    On October 25, 2019, Tarrant County District Attorney Sharen Wilson said evidence will also be presented to a grand jury for a formal indictment. Dean is the only officer to face a murder charge in Tarrant County for a shooting committed while on duty. He was indicted by a grand jury on a murder charge on December 20, 2019.",
+    image: "https://static01.nyt.com/images/2019/10/24/us/24fortworth-funeral/24fortworth-funeral-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+)
+
+Person.create(
+    name: "Jamar Clark",
+    birthdate: Date.new(1991, 5, 3),
+    deathdate: Date.new(2015, 11, 15),
+    incident_date: Date.new(2015, 11, 15),
+    age: 24,
+    location: "Minneapolis, MN",
+    police_involved: ["Mark Ringgenberg", "Dustin Schwarze"],
+    details: "Jamar Clark was attending the birthday party of Nekelia Sharp, who was hosting the event at her apartment on the 1600 block of Plymouth Avenue North in Minneapolis. Sharp and her husband engaged in a dispute and Clark's girlfriend grabbed Sharp, after which Sharp and Clark's girlfriend fought.
+    Clark stepped in to pull his girlfriend away and, according to Sharp, Clark's girlfriend hit him. The pair left and soon, someone called for help and paramedics were called. Sharp let them into her apartment and they escorted Clark's girlfriend to the ambulance, which Clark approached after she had entered it.
+    An onlooker reported that both the paramedics and police who had arrived at the scene asked Clark to step away from the ambulance and that police then stepped from their car, arrested Clark on the ground, and the EMS supervisor placed a knee on Clark's chest, after which point he was shot.
+    County Attorney accounts say that Clark got into a confrontation with paramedics and then when police officers responded at 12:45 a.m., a 'struggle' ensued, Clark obtained the officer's gun, leading to the shooting by the other officer. Hennepin County Attorney Mike Freeman said that Clark was resisting and was not handcuffed.
+    In a statement on November 16, police chief Janeé Harteau said that the Minneapolis Police Department's preliminary information was that Clark was not restrained with handcuffs when shot. The President of the Minneapolis Police Union Bob Kroll said that Clark was actively resisting arrest and tried to take the weapon of one of the officers, and that he was not handcuffed at the moment of the shooting.
+    Clark's DNA was found on the handle of one of the officers' gun. Mike Freeman said there was no forensic evidence on Clark's arm indicating he was handcuffed at the time of shooting. In addition, he stated that 10 law enforcement and paramedic witnesses including the officers involved said he was not handcuffed.
+    Other accounts have disputed the police's version of events. Nekelia Sharp said that the shooting occurred while Clark was handcuffed and not resisting. Teto Wilson, who visited a nearby club, said he saw Clark 'perfectly still, laying on the ground' when he was shot. Keisha Steele, who lived near the area of the shooting, said she saw Clark's hands behind his back. Everett Spicer arrived at the scene after the shooting, and said he saw a motionless Clark handcuffed on the ground. Spicer said police removed the handcuffs from Clark as emergency medical services arrived to tend to him.",
+    aftermath: "The US Justice Department declined to prosecute the officers, saying it found 'insufficient evidence' for criminal civil rights charges. The DOJ's decision followed a separate investigation in March by Minnesota's Bureau of Criminal Apprehension (BCA), which concluded that the officers acted in self-defense and would not face criminal charges for the killing.
+    Schwarze shot Clark only after Ringgenberg scuffled with the young man, according to the BCA findings. Clark allegedly took control of the officer's gun and Ringgenberg told Schwarze to open fire. The department's internal investigation confirmed those findings. They 'concluded the use of deadly force in the line of duty was necessary to protect an officer from apparent death or great bodily harm.'",
+    image: "https://s.abcnews.com/images/US/ap_jamar_clark_police_shooting_float_jc_151119_16x9_992.jpg"
+)
+Person.create(
+    name: "DJ Henry",
+    deathdate: Date.new(2010, 10, 18),
+    incident_date: Date.new(2010, 10, 18),
+    age: 20, 
+    location: "Pleasantville, NY",
+    police_involved: ["Aaron Hess"],
+    details: "On Oct. 18, 2010, Henry had been at a party after a homecoming game at Finnegan's Bar and Grill in Pleasantville, NY, not far from Pace University's Westchester campus. According to CBS, other patrons at the bar got into a fight, and police were called to disburse the group. Henry was in a car and was shot while he was trying to drive away. The Boston Globe reports that as Henry pulled the car forward, police yelled for him to stop, and Officer Aaron Hess stepped in front of the car, ended up on the hood, and fired several shots through the windshield.",
+    aftermath: "Though his family filed a lawsuit against Hess and the city of Pleasantville, a grand jury decided not to indict anyone involved with Henry's death. In 2015, no federal charges were brought in the case. Hess was not prosecuted. At the time, the U.S. Attorney’s Office determined after its investigation that the 'evidence did not support charges.'
+    In 2016, the Henry family accepted a partial settlement of $6 million. 'The Henrys have been clear from the beginning that no monetary settlement could ever replace the deep loss of their beloved son DJ,' their attorney, Michael Sussman, told CNN at the time.",
+    image: "https://media.nbcboston.com/2019/09/DJ-Henry-1.jpg?resize=850%2C478"
 )
