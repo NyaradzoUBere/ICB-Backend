@@ -390,3 +390,56 @@ Person.create(
     In 2016, the Henry family accepted a partial settlement of $6 million. 'The Henrys have been clear from the beginning that no monetary settlement could ever replace the deep loss of their beloved son DJ,' their attorney, Michael Sussman, told CNN at the time.",
     image: "https://media.nbcboston.com/2019/09/DJ-Henry-1.jpg?resize=850%2C478"
 )
+
+Person.create(
+    name: "Rekia Boyd",
+    birthdate: Date.new(1989, 11, 5),
+    deathdate: Date.new(2012, 3, 21),
+    incident_date: Date.new(2012, 3, 21),
+    age: 22,
+    location: "Chicago, IL",
+    police_involved: ["Dante Servin"],
+    details: "Servin, an off-duty police officer, drove his car to Douglas Park on the West Side of Chicago after calling the police to make a noise complaint. He then approached a group of four individuals who had been partying in the park and had some form of verbal altercation with them. Reports are unclear as to whether Servin was calm and polite or rude and aggressive. One of the victims, Antonio Cross, accused Servin of attempting to buy drugs from the group, to which Cross allegedly told Servin to get his 'crackhead ass' out of there.
+    Servin fired on the group, hitting Rekia Boyd in the head, and Antonio Cross in the hand. Initially the Chicago police department claimed that Servin had discharged his weapon after Cross had approached him with a gun. The Boyd family quickly responded that the object was in fact a cell phone. No weapon was ever recovered from the scene.",
+    aftermath: "In November 2013, Servin was charged with involuntary manslaughter, but was cleared of all charges on April 20, 2015, by Judge Dennis J. Porter in a rare directed verdict.
+    Porter's reasoning was that since the shooting was intentional, Servin could not be charged with recklessness. 'It is intentional and the crime, if any there be, is first-degree murder,' said Porter in his ruling. Attorney Sam Adam, Jr., accused state prosecutor Anita Alvarez with deliberately undercharging Servin knowing that the charges would be dropped, in order to curry favor with the police department.
+    Servin claimed he fired because someone in the group was holding a gun, but it was actually only a cellphone. Witnesses said that Servin appeared drunk at the time of the incident.
+    In November 2015, Chicago Mayor Rahm Emanuel and police superintendent Garry McCarthy both suggested that Dante Servin should be fired by the Chicago Police Board. The city paid $4.5 million to Boyd's family.
+    Servin resigned on May 17, 2016, two days before the departmental hearing which was to decide whether he should be fired.",
+    image: "https://chicago.cbslocal.com/wp-content/uploads/sites/15116062/2015/04/rekia-boyd.jpg"
+)
+
+Person.create(
+    name: "David McAtee",
+    deathdate: Date.new(2020, 6, 1),
+    incident_date: Date.new(2020, 6, 1),
+    age: 53,
+    location: "Louisville, KY",
+    details: "In the context of a 9 p.m. curfew related to protests concerning the recent violent deaths of George Floyd and Breonna Taylor, the LMPD and National Guard were attempting to disperse a crowd of people in and around the parking lot of Dino's Food Mart, a popular social gathering spot at a gas station across the street from McAtee's restaurant.
+    Witnesses in the crowd said the gathering was independent of the protests and was instead part of a weekly neighborhood social occasion at which McAtee served food. They allege that soldiers and police, in their effort to enforce the curfew, had boxed the crowd into the area thus causing a panic, which resulted in people running towards the restaurant. According to an LMPD statement, someone in the crowd opened fire at the armed officers and soldiers, who returned fire. A bullet shot by a National Guard soldier struck McAtee in the chest, killing him at the scene at about 12:15 a.m.
+    Following the shooting, hundreds of people stood near the restaurant, and McAtee's body remained lying at the scene for 12–14 hours while police investigated.",
+    aftermath: "On June 1, Governor Andy Beshear ordered Kentucky State Police to investigate the shooting via a joint effort with the FBI Louisville Field Office and the U.S. Attorney Office for the Western District of Kentucky. On June 2, acting LMPD police chief Schroeder said that security camera footage showed McAtee firing a gun as officers approached his business while clearing out a nearby parking lot. According to Schroeder, questions remained, 'including why did he fire and where were police at the time he fired?'
+    On June 4, videographic analysis by The New York Times' visual investigations unit of surveillance and bystander videos from four separate angles reconstructed a synchronized chronology of the sequence of events leading to McAtee's death. This analysis concluded that police first fired at least two pepper balls from outside McAtee's restaurant toward his relatives and him, in violation of LMPD policy requiring pepper balls be shot into the ground during crowd dispersal operations, and that 'law enforcement officials shall avoid the use of force' when trying to disperse non-violent crowds.
+    One shot hit and pierced a bottle on an outdoor table, knocking it to the ground, and the other struck the doorway, almost hitting McAtee's niece in the head. At the time, the pepper ball shots may not have been distinguishable from other ammunition. In response, McAtee grabbed his gun and appears to have fired. The Guardian wrote that the video shows that McAtee 'raises his arm in the air', which is 'a motion consistent with firing a warning shot'.
+    On June 9, the governor's office said that lab tests from the case concluded that McAtee was killed from a single gunshot by a National Guard soldier. In total, two officers and two guardsmen fired at least 19 shots in McAtee's direction. McAtee was determined to have fired twice with a 9 mm pistol. According to officials, McAtee's shots prompted law enforcement's return fire, which killed him. The identities of the soldiers involved in the shooting have not been released.",
+    image: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/8/e3/8e3a90c8-a9a2-11ea-a72c-b379a3bd2f0d/5ede62ee684f3.image.jpg?resize=1200%2C675"
+)
+
+Person.create(
+    name: "Korryn Gaines",
+    birthdate: Date.new(1993, 8, 24),
+    deathdate: Date.new(2016, 8, 1),
+    incident_date: Date.new(2016, 8, 1),
+    age: 23,
+    location: "Randallstown, MD",
+    details: "According to police reports, Gaines was stopped for a traffic violation for having a piece of cardboard with writing on it in place of a license plate. The cardboard plate read 'Any government official who compromises this pursuit of happiness and right to travel, will be held criminally responsible and fined, as this is a natural right and freedom.'
+    Gaines was pulled over for invalid license plates which she contends was valid under constitutional law. She did not have the car registered in the state of Maryland and a citation from the police officers was in order along with repossession of the vehicle. Upon being stopped, the police removed her keys from the vehicle as to stop her from driving off since the officer deemed her non-compliant with police.
+    After which the officer instructs her to do as he asks '[because] I'm working with you.'. The officers gave her the citation, ordering her to exit her vehicle, and informing her that they would be repossessing it as it has no license and was no longer registered in the state of Maryland. A subsequent verbal conflict ensued. She replied to the officer, 'You're not going to kidnap me.' After the officers ordered her to get out of the vehicle, she told them, 'You will have to kill me'.
+    At that point, she began holding her child. Baltimore County Police Department officers arrived at Gaines' apartment at Carriage Hill Apartments on Sulky Court to serve her a warrant. Gaines was in the apartment with her five-year-old son, and armed herself with a Mossberg shotgun; a standoff between Gaines and police ensued. Police say that after several hours of standoff, Gaines threatened officers with a shotgun.
+    One police officer fired a shot and Gaines fired back with buckshot. Officers responded with three shots, hitting Gaines. Gaines' five-year-old son, Kodi, was shot by police in the crossfire. Kodi's arm was struck by bullets and suffered an elbow injury and bullet fragments in his face. Gaines' boyfriend, Kareem Kiean Courtney (age 39), who was living with Gaines, was able to leave the apartment with Gaines' 1-year-old daughter, upon which he was briefly detained by police before being released.
+    While the Baltimore County Police Department is equipped with a Mobile Crisis Team that 'pairs a mental health clinician with a police officer to provide emergency police response to persons in need of crisis intervention,' this unit was never called in to de-escalate the situation.",
+    aftermath: "On September 11, 2016, Gaines family lawyers filed a wrongful death lawsuit, alleging officers shot Gaines out of a loss of patience from the prolonged standoff. On September 21, Scott Shellenberger announced the officer who shot Gaines would not receive any charges. On October 11, Gaines family lawyers said that they had filed an amended lawsuit, naming Officers John Dowell and Allen Griffin as defendants; the Gaines family alleged they entered the apartment illegally, though this had previously been dismissed by Shellenberger and police officials.
+    In February 2018, a jury of 6 women awarded more than $37 million (more than $36 million by other accounts) in damages to the Gaines family after finding that the first shot, fired by Royce Ruby and killing Gaines, was not reasonable, and thus violated their civil rights.
+    A statement from Baltimore County government attorney Mike Field said the county was disappointed with the verdict and reviewing its options, including an appeal. On March 19, 2018, Baltimore County filed an appeal. On February 14, 2019, Judge Mickey J. Norman dismissed the original complaint and consequently remitted the award of over $37 million. The family had stated they would file an appeal. On Wednesday, July 1, 2020, after appealing and having the case heard by a second jury, jurors reinstated the original $38 Million verdict, $32 Million of which will go to Gaines' son.",
+    image: "https://i.guim.co.uk/img/media/b326a707c8832eede5e72df2e88474622f122c1a/0_197_934_560/934.jpg?width=640&quality=85&auto=format&fit=max&s=4380ad32c1e5b18b275eb98eb93cb289"
+)
