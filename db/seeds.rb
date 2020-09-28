@@ -443,3 +443,42 @@ Person.create(
     A statement from Baltimore County government attorney Mike Field said the county was disappointed with the verdict and reviewing its options, including an appeal. On March 19, 2018, Baltimore County filed an appeal. On February 14, 2019, Judge Mickey J. Norman dismissed the original complaint and consequently remitted the award of over $37 million. The family had stated they would file an appeal. On Wednesday, July 1, 2020, after appealing and having the case heard by a second jury, jurors reinstated the original $38 Million verdict, $32 Million of which will go to Gaines' son.",
     image: "https://i.guim.co.uk/img/media/b326a707c8832eede5e72df2e88474622f122c1a/0_197_934_560/934.jpg?width=640&quality=85&auto=format&fit=max&s=4380ad32c1e5b18b275eb98eb93cb289"
 )
+
+Person.create(
+    name: "Natasha McKenna",
+    birthdate: Date.new(1978, 1, 9),
+    deathdate: Date.new(2015, 2, 8),
+    incident_date: Date.new(2015, 2, 3),
+    age: 37,
+    location: "Alexandria, VA",
+    details: "McKenna, a 37-year old woman, was being held at the Fairfax County Adult Detention Center by the Fairfax County Police Department and Fairfax County Sheriff's Office in Fairfax County, Virginia, due to an outstanding warrant issued over her suspected attack on a police officer in Alexandria, Virginia.
+    Fairfax County officials had notified Alexandria police, whom they expected to pick up the suspect. But, there was an unexplained week-long delay in their response, and Fairfax decided to transport the prisoner to Alexandria. They said her mental condition was deteriorating. In Alexandria, better assistance could be provided, namely, the resources (i.e., legal representation to petition for a mental health hold) that were required to be provided by the warrant-issuing city.
+    Due to the previous assault charge against her, when McKenna was taken out of her cell, she was restrained with her arms behind her back and in handcuffs, her legs shackled, and a spit mask placed over her head. 17 minutes into the 45-minute struggle to extract her from her cell, McKenna, who was 130 lb (59 kg) and 5 ft 4 in (1.63 m) tall, was tasered. A sheriff's deputy used a stun gun to taser her four times because she wouldn't bend her knees to be put into a wheeled restraint chair.
+    Because she was classified as mentally ill, a specialized team was attempting to ready her for transport to Alexandria. The team was made up of six members of the Sheriff’s Emergency Response Team ('SERT'); they were dressed in full-body biohazard suits and gas masks.
+    Shortly after being tasered, McKenna suffered cardiac arrest and lost consciousness. She was resuscitated by emergency responders while being taken to Inova Fairfax Hospital. There she was placed on life support. After five days, she was determined to be brain dead and was removed from life support. She was pronounced dead on February 8, 2015.",
+    aftermath: "The Fairfax County Sheriff Department, led by Sheriff Stacey Ann Kincaid, conducted an initial internal investigation. This was later assigned to the Fairfax County Police, which is responsible for investigations of prisoner deaths. There were no criminal charges filed against the officers involved in McKenna's death.
+    The Virginia medical examiner's office made the determination that McKenna's cause of death was accidental, due to excited delirium, and that it was linked to the use of the stun gun.
+    Use of the stun gun was questioned by her family and counsel as being an excessive use of force on a restrained person, a small woman. Following McKenna's death, the Fairfax County Sheriff's Office suspended such use of stun guns at the county jail in April 2015.
+    The question of how police treat mentally ill prisoners became a focus of the discussion surrounding McKenna's death.",
+    image: "https://static.wixstatic.com/media/f7afc0_9496bebfab7b46208e6749c4dbda4c06~mv2.jpg/v1/fill/w_340,h_460,al_c,lg_1,q_80/Natasha%20McKenna.webp"
+)
+
+Person.create(
+    name: "Tony Robinson",
+    deathdate: Date.new(2015, 3, 6),
+    incident_date: Date.new(2015, 3, 6),
+    age: 19,
+    location: "Madison, WI",
+    police_involved: "Matthew Kenny"
+    details: "On March 6, 2015, the police received reports that 19-year-old Tony Robinson was yelling and jumping in front of cars. Robinson had reportedly been running in and out of the street while shouting at bystanders. Some of the reports were from friends of Robinson, who were concerned by his erratic behavior and called for help. The original caller and witnesses all stated that Robinson was unarmed and expressed concern over his well-being.
+    45-year-old officer Matt Kenny responded to the call to 'check person' at 6:30 pm. Officer Kenny was backed up by Sergeant Gary and Officer Christian. Gary and Christian arrived to the front of the residence as Kenny was standing in the entrance to the stairwell by the open door.
+    Officer Kenny went into the open side porch door into a stairway of twelve steps. According to Kenny, based upon shouting he overheard, he believed that Robinson was assaulting someone in the second-floor apartment, and went in to stop it. Kenny encountered an aggressive Robinson at the top of the stairs, who punched Kenny in the head, causing Kenny to sustain a concussion. Kenny feared for his life, as he could be knocked down the stairs and have his weapon taken, and fatally shot Robinson to protect himself. The Robinson estate's description of the events alleges that Kenny was dispatched to a 'check person' call, knew that he should wait for backup, but entered the building with his weapon drawn anyway. Then, as he stood near the bottom of the stairwell, Robinson appeared at the top, and Kenny fired unnecessarily. Robinson fell down the stairs and Kenny fired the fatal shots as he lay helpless at the bottom of the stairs.
+    Sergeant Gary, first on scene after Kenny asked Kenny if Robinson had any weapons. Kenny replied that Robinson did not have any weapons. Sergeant Gary saw Robinson laying at the bottom of the stairs on his back with his feet out the door. Sergeant Gary saw Robinson gasp for breath and pull his hands inward toward the front of his body near his stomach. Sergeant Gary noted that Robinson had nothing in his hands. Sergeant Gary also noted that Officer Kenny appeared to have no injuries. Physical evidence at the scene showed all bullet casings at the bottom of the stairs, the entryway, and outside the stairwell on the porch. Squad video footage showed Kenny exiting the house as he was firing the final 3-4 shots. Further evidence at the scene showed Robinson's blood on the wall at 5 feet above the top of the fifth step from the entryway.
+    Additionally, Gary went upstairs and cleared the apartment but did not find anyone. Kenny went to the hospital, and photographs indicate that he had a cut on the left side of his head, near his hairline. Medical personnel cleaned the cut and did not need to bandage it. Kenny denied having pain, nausea, vomiting, dizziness, or visual changes, but he was diagnosed with a head injury about a month after the incident.
+    Robinson was taken to UW Hospital in Madison, WI where he was pronounced dead. Autopsy results confirmed that Robinson had been struck by 7 bullets that were from 0–5 foot range. Officer Kenny had no confirmed injuries and although he claimed a concussion 28 days after the shooting incident a ruling by Judge James Petersen said Kenny's claims of concussion were not verifiable and only based on Kenny's 'say-so'. 
+    Robinson was determined post-mortem to have ingested Xanax, psilocybin mushrooms, and THC hours before the shooting. The drugs may have contributed to his erratic behavior.",
+    aftermath: "The Wisconsin Department of Justice investigated the Robinson shooting, as required by Wisconsin law. Robinson's uncle said that the family had faith that the Division of Criminal Investigation will 'handle [the investigation] with integrity'.
+    On May 12, 2015, Dane County District Attorney, Ismael Ozanne, announced that Officer Matt Kenny would not face charges for the shooting of Tony Robinson. The shooting was labeled a 'lawful use of deadly police force.'
+    In February, 2017, Robinson's family accepted a $3.35 million settlement from the city, to settle a civil rights lawsuit.",
+    image: "https://cdn.cnn.com/cnnnext/dam/assets/150307212115-tony-robinson-large-169.jpeg"
+)
