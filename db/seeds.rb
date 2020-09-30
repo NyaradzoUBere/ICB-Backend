@@ -105,7 +105,7 @@ Person.create(
 Person.create(
     name: "George Floyd",
     birthdate: Date.new(1973, 10, 14),
-    deathate: Date.new(2020, 5, 25),
+    deathdate: Date.new(2020, 5, 25),
     incident_date: Date.new(2020, 5, 25),
     age: 47,
     location: "Minneapolis, MN",
@@ -521,7 +521,7 @@ Person.create(
 Person.create(
     name: "Breonna Taylor",
     birthdate: Date.new(1993, 6, 5),
-    deathate: Date.new(2020,3,13),
+    deathdate: Date.new(2020,3,13),
     incident_date: Date.new(2020,3,13),
     age: 26,
     location: "Louisville, KY",
