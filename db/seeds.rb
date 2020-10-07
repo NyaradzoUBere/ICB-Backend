@@ -43,7 +43,8 @@ Person.create(
     On September 29, the grand jury began hearing evidence in the Garner case. On November 21, Pantaleo testified before the grand jury for about two hours. After considering the case for two months, the grand jury decided on December 3rd, 2014 not to indict Pantaleo.
     Under New York law, most of the grand jury proceedings were kept secret, including the exact charges sought by the prosecutor, the autopsy report, and transcripts of testimony. Attempts by the New York Civil Liberties Union and others to gain release of that information have been unsuccessful.",
     image: "https://www.nyclu.org/sites/default/files/styles/featured_image_580x386/public/field_image/eric_garner.jpg?itok=gimlunO2",
-    donation: "https://www.gofundme.com/f/fighting-for-justice-for-eric-garner"
+    donation: "https://www.gofundme.com/f/fighting-for-justice-for-eric-garner",
+    petition: "https://www.change.org/p/please-support-the-eric-garner-law"
 )
 
 Person.create(
@@ -62,7 +63,8 @@ Person.create(
     Van Dyke was on the scene for less than 30 seconds before opening fire and began shooting approximately six seconds after exiting his car. The first responding officer said that he did not see the need to use force, and none of the at least eight other officers on the scene fired their weapons.",
     aftermath: "When a court ordered the police to release a dash cam video of the shooting thirteen months later, on November 24, 2015, it showed McDonald had been walking away from the police when he was shot.
     That same day, Officer Van Dyke was charged with first-degree murder and initially held without bail at the Cook County Jail. He was released on bail on November 30. The city reached a settlement with McDonald's family. On October 5, 2018, Van Dyke was found guilty of second-degree murder, as well as 16 counts of aggravated battery with a firearm.",
-    image: "https://www.wwaytv3.com/wp-content/uploads/2019/01/1280x960_51125P00-WQHYE-e1547756750572-696x521.jpg"
+    image: "https://www.wwaytv3.com/wp-content/uploads/2019/01/1280x960_51125P00-WQHYE-e1547756750572-696x521.jpg",
+    petition: "https://sign.moveon.org/petitions/demand-justice-for-laquan"
 )
 
 Person.create(
@@ -128,7 +130,8 @@ Person.create(
     On June 29 the presiding judge in the case indicated that continued public comments on the case, by defense attorneys or public officials, were likely to lead to the case being transferred to another county.
     On August 29, 2020, attorneys for Derek Chauvin filed a motion for dismissal, claiming that Floyd most likely died as a result of drug use and preexisting medical conditions. On the same day, prosecutors moved to increase potential sentences for the four officers beyond the guidelines for all four accused, arguing that Floyd was vulnerable while being held down on the ground in handcuffs and was treated cruelly.",
     image: "https://www.thesun.co.uk/wp-content/uploads/2020/05/FE-George-Floyd-FBjpg-JS585341636-e1591018358774.jpg?strip=all&quality=100&w=520&h=436&crop=1",
-    donation: "https://www.gofundme.com/f/georgefloyd"
+    donation: "https://www.gofundme.com/f/georgefloyd",
+    petition: "https://www.change.org/p/mayor-jacob-frey-justice-for-george-floyd"
 )
 
 Person.create(
@@ -173,7 +176,8 @@ Person.create(
     On April 11, 2012, amid widespread, intense, and in some cases misleading media coverage, Zimmerman was charged with second-degree murder by a special prosecutor appointed by Governor Rick Scott. Zimmerman's trial began on June 10, 2013, in Sanford. Opening statements took place on June 24, 2013. Jury deliberations began on July 12. On July 13, 2013, the jury found him not guilty.
     On July 13, 2013, shortly after the trial verdict, the U.S. Justice Department issued a statement saying its investigation into the civil rights aspects of the case was continuing. On February 24, 2015, 35 months after it began, the civil rights investigation of the Justice Department was terminated for lack of evidence. The FBI investigation was concurrently terminated for the same reason.",
     image: "https://static-24.sinclairstoryline.com/resources/media/5789f005-3e81-4d61-912f-0f7b8c3a8df5-trayvon_martin_296.jpg?1436557858087",
-    donation: "https://www.trayvonmartinfoundation.org/donate"
+    donation: "https://www.trayvonmartinfoundation.org/donate",
+    petition: "https://www.change.org/p/the-trayvon-martin-law-stop-this-from-happening-again"
 )
 
 Person.create(
@@ -192,7 +196,8 @@ Person.create(
     On October 16, 2019, Guyger's attorneys filed a notice of appeal requesting a new trial. Guyger is currently imprisoned in the Mountain View Correctional Center.
     On August 7th, 2020 Guyger's attorneys filed an appeal of the conviction on the grounds ‘there was insufficient evidence to convict her of murder. The court should either acquit Guyger of that charge, or acquit her of murder, convict her of criminally negligent homicide, and hold a new hearing on the punishment’.",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUhRY12cOi-NbPz3NhUMi4vs5wvgF1Yebcw&usqp=CAU",
-    donation: "https://www.gofundme.com/f/in-memory-of-botham-jean"
+    donation: "https://www.gofundme.com/f/in-memory-of-botham-jean",
+    petition: "https://www.change.org/p/city-of-dallas-change-lamar-street-in-dallas-to-botham-jean-way"
 )
 
 Person.create(
@@ -217,7 +222,8 @@ Person.create(
     Loehmann did not disclose this fact on his application to join the Cleveland police, and the Cleveland police never reviewed his previous personnel file before hiring him. In 2017, following an investigation, Loehmann was fired for withholding this information on his application.
     A review by retired FBI agent Kimberly Crawford found that Rice's death was justified and Loehmann's 'response was a reasonable one.'",
     image: "https://static01.nyt.com/images/2015/01/22/us/CLEVELAND-web3/CLEVELAND-web3-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-    donation: "https://www.tamirericefoundation.org/donate"
+    donation: "https://www.tamirericefoundation.org/donate",
+    petition: "https://www.change.org/p/department-of-justice-investigate-the-killing-of-tamir-rice"
 )
 
 Person.create(
@@ -268,7 +274,8 @@ Person.create(
     In a statement, Landry wrote 'The USDOJ’s review of this matter was to determine violations of federal law: specifically, federal civil rights laws. To date, this matter has not been investigated or reviewed for possible violations of the Louisiana Criminal Code. Therefore, this matter now needs to be investigated for possible state criminal violations.'
     In March 2018, Landry's office announced it would not bring charges against the officers stating that they acted in a 'reasonable and justifiable manner'. On March 30, 2018, officer Salamoni was fired for violating use of force policies, and Lake was suspended for three days for losing his temper.",
     image: "https://theundefeated.com/wp-content/uploads/2016/07/alton-sterling-3-e1467824438750.jpg?w=1024",
-    donation: "https://www.gofundme.com/f/2d3eze7g"
+    donation: "https://www.gofundme.com/f/2d3eze7g",
+    petition: "https://www.change.org/p/baton-rouge-police-department-justice-for-alton-sterling-ab658fc8-0423-43ff-963c-5f2cc4940456"
 )
 
 
@@ -288,7 +295,8 @@ Person.create(
     Witness accounts of the event conflict with the account provided by police. According to Joseph Guzman, the plainclothes detectives never identified themselves as they approached with their weapons drawn.
     According to the New York Daily News, witnesses claimed the officers failed to warn Bell before opening fire, beginning to shoot as soon as they left their cars.",
     aftermath: "Three of the five detectives involved in the shooting went to trial on charges of first- and second-degree manslaughter, first- and second-degree assault, and second-degree reckless endangerment; they were found not guilty.",
-    image: "https://www.nydailynews.com/resizer/axlWdw2-tiH_-MMMHFJy-d0j7yI=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3AU63LOVAT753VDVV4EAOAQ4BA.jpg"
+    image: "https://www.nydailynews.com/resizer/axlWdw2-tiH_-MMMHFJy-d0j7yI=/1400x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/3AU63LOVAT753VDVV4EAOAQ4BA.jpg",
+    petition: "https://www.change.org/p/sean-bell-family-reopen-sean-bell-case-and-justice-served"
 )
 
 Person.create(
@@ -313,7 +321,8 @@ Person.create(
     After five days of deliberation, he was acquitted of all charges in a jury trial on June 16, 2017. After the verdict, Yanez was immediately fired by the City of Saint Anthony.
     As revealed by the Associated Press a few weeks later, Yanez received $48,500 as part of his separation agreement with the city, in addition to payment for unused compensatory time.",
     image: "https://media1.s-nbcnews.com/j/newscms/2016_27/1610311/160707-philando-castille-03_90f485eec00334de1b2ca279c68fa9ec.fit-760w.jpg",
-    donation: "https://www.gofundme.com/f/philando-castile-feeds-the-children"
+    donation: "https://www.gofundme.com/f/philando-castile-feeds-the-children",
+    petition: "https://www.change.org/p/city-of-state-anthony-to-get-justice-for-philando-castile?recruiter=1000308656"
 )
 
 Person.create(
@@ -328,7 +337,8 @@ Person.create(
     Four of the rounds struck Bailey in the back. No gun was found.",
     aftermath: "Following a criminal investigation, a special prosecutor cleared both officers of criminal charges. An internal investigation by IMPD, though, led to the  step of IMPD Chief Bryan Roach attempting to fire Dinnsen and Howard.
     The Civilian Police Merit Board rejected Roach's recommendation and restored both officers to IMPD.",
-    image: "https://pbs.twimg.com/media/DcwesrkX4AAgRDJ.jpg"
+    image: "https://pbs.twimg.com/media/DcwesrkX4AAgRDJ.jpg",
+    petition: "https://www.change.org/p/joe-hogsett-re-open-aaron-carters-case?redirect=false"
 )
 
 Person.create(
@@ -351,7 +361,8 @@ Person.create(
     In September 2016, Bland's mother settled a wrongful death lawsuit against the county jail and police department for $1.9 million and some procedural changes. In June 2017, the perjury charge against Encinia was dropped in return for his agreement to permanently end his law enforcement career.
     In 2019, Bland's cell phone video became available to the public and to Bland's family for the first time. The video was obtained and shown by Dallas news station WFAA. This video was not available during the civil trials.",
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sandra_Bland_re-crop.jpg/180px-Sandra_Bland_re-crop.jpg",
-    donation: "https://www.gofundme.com/f/sandystillspeaks"
+    donation: "https://www.gofundme.com/f/sandystillspeaks",
+    petition: "https://www.change.org/p/texas-governor-i-want-sandra-bland-s-case-reopened"
 )
 
 Person.create(
@@ -374,11 +385,12 @@ Person.create(
     Ohio State Representative Alicia Reece has proposed a ‘John Crawford's Law’, which would change the way toy guns look to prevent similar tragedies.
     Ohio is an ‘open carry’ state, in which the open carrying of firearms is legal with or without a license, which prompted discussion of gun rights and race.",
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/John_Crawford_III.jpg/170px-John_Crawford_III.jpg",
-    donation: "https://www.gofundme.com/f/JUSTICE-FOR-JOHN"
+    donation: "https://www.gofundme.com/f/JUSTICE-FOR-JOHN",
+    petition: "https://www.change.org/p/u-s-senator-sherrod-brown-john-crawford-iii-law-accountability-for-wrongful-use-of-deadly-force?recruiter=14518386"
 )
 
 Person.create(
-    name: "Elijah McClaine",
+    name: "Elijah McClain",
     birthdate: Date.new(1996, 2, 25),
     deathdate: Date.new(2019, 8, 30),
     incident_date: Date.new(2019, 8, 24),
@@ -398,7 +410,8 @@ Person.create(
     On June 24, 2020, after a social media outcry and Aurora lawmakers' requests for a new, third-party investigation into McClain's death, Colorado Governor Jared Polis announced his administration would reexamine the case.
     On June 29, the interim police chief announced that multiple officers had been placed on administrative leave and were under investigation after photos of them surfaced that had been taken near the site where McClain died. The photos, taken in October 2019, show police officers posing inappropriately and reenacting the carotid restraint used on McClain before his death. In July, three officers were fired from the department in relation to the photos, while one officer resigned.",
     image: "https://i1.wp.com/www.denverpost.com/wp-content/uploads/2019/08/elijah-mcclain-2.jpg?fit=620%2C9999px&ssl=1",
-    donation: "https://www.gofundme.com/f/elijah-mcclain"
+    donation: "https://www.gofundme.com/f/elijah-mcclain",
+    petition: "https://www.change.org/p/adams-county-district-attorney-justice-for-elijah-mcclain-2"
 )
 
 
@@ -422,7 +435,8 @@ Person.create(
     During the week of August 2, the DA's office applied to obtain a search warrant to gain information about the fundraising site set up for Rolfe, attempting to obtain information including on who had established the site, how much money had been raised, and where the money went, representing it wanted the information to support a possible bond violation charge. One of Rolfe's attorneys condemned the request stating, ‘...he [DA Howard] sought to uncover the private information of Americans who donated to Garrett Rolfe’s defense because they believed in his innocence.’ Subsequently, a judge denied the warrant application.
     On August 4, the day Rolfe's attorneys filed the lawsuit for reinstatement, the DA's office filed a motion to revoke Rolfe's bond, alleging that Rolfe had traveled to Florida without permission. Rolfe's attorneys filed a response with the court stating the bond conditions neither placed Rolfe on house arrest/home confinement, nor was he prohibited from traveling out of state, and that they had, as a courtesy, notified prosecutors of his travel via email prior to traveling. On August 12, the presiding judge refused to revoke Rolfe's bond, but amended it prohibiting out of state travel.",
     image: "https://s.abcnews.com/images/US/rayshard-brooks-portrait-1-ht-ps-200615_hpMain_2_4x5_608.jpg",
-    donation: "https://www.gofundme.com/f/official-gofundme-for-rayshard-brooks"
+    donation: "https://www.gofundme.com/f/official-gofundme-for-rayshard-brooks",
+    petition: "https://www.change.org/p/atlanta-police-department-justice-for-the-murder-of-rayshard-brooks"
 )
 
 Person.create(
@@ -440,7 +454,8 @@ Person.create(
     Based on footage from Dean's body camera which captured the shooting, a warrant was issued for his arrest. He was arrested at his attorney's office on October 14, 2019 and charged with murder. He was given a $200,000 bond, which he posted, and was released about three hours later. Kraus said that Dean had not provided a written statement or answered questions.
     On October 25, 2019, Tarrant County District Attorney Sharen Wilson said evidence will also be presented to a grand jury for a formal indictment. Dean is the only officer to face a murder charge in Tarrant County for a shooting committed while on duty. He was indicted by a grand jury on a murder charge on December 20, 2019.",
     image: "https://static01.nyt.com/images/2019/10/24/us/24fortworth-funeral/24fortworth-funeral-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
-    donation: "https://www.gofundme.com/f/1s5tcouu9c"
+    donation: "https://www.gofundme.com/f/1s5tcouu9c",
+    petition: "https://www.justiceforatatiana.com/"
 )
 
 Person.create(
@@ -480,7 +495,8 @@ Person.create(
     On March 4, 2015, the federal investigation cleared Wilson of civil rights violations in the shooting. The investigation concluded there was no evidence upon which prosecutors could rely to disprove Wilson's asserted belief that he feared for his safety, that witnesses who contradicted Wilson were not credible, that forensic evidence and credible witnesses corroborated Wilson's account, and that the facts did not support the filing of criminal charges against Wilson. Credible witnesses did not support accounts that Brown had his hands up in surrender.
     He was not shot in the back. Forensic evidence showed he was moving toward Wilson. Numerous witnesses were found to have given accounts of actions they were unable to see from their vantage points, or to be recounting others' accounts.
     A new St. Louis prosecutor, Wesley Bell, spent five months in 2020 secretly reviewing the case with an eye to charging Wilson with either manslaughter or murder. In July, Bell announced he would not charge Wilson with any crime; Bell said he didn't ‘have the evidence to ethically bring a charge against Darren Wilson.’",
-    image: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/ed/fed5e621-f0a8-5baa-a11a-c748e5dc65cd/5407e4191392a.image.jpg"
+    image: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/f/ed/fed5e621-f0a8-5baa-a11a-c748e5dc65cd/5407e4191392a.image.jpg",
+    petition: "https://www.change.org/p/donald-j-trump-re-open-michael-browns-murder-case"
 )
 
 Person.create(
@@ -494,7 +510,8 @@ Person.create(
     aftermath: "Though his family filed a lawsuit against Hess and the city of Pleasantville, a grand jury decided not to indict anyone involved with Henry's death. In 2015, no federal charges were brought in the case. Hess was not prosecuted. At the time, the U.S. Attorney’s Office determined after its investigation that the 'evidence did not support charges.'
     In 2016, the Henry family accepted a partial settlement of $6 million. 'The Henrys have been clear from the beginning that no monetary settlement could ever replace the deep loss of their beloved son DJ,' their attorney, Michael Sussman, told CNN at the time.",
     image: "https://media.nbcboston.com/2019/09/DJ-Henry-1.jpg?resize=850%2C478",
-    donation: "https://djdreamfund.ejoinme.org/DJDreamFundDonate"
+    donation: "https://djdreamfund.ejoinme.org/DJDreamFundDonate",
+    petition: "https://www.change.org/p/new-york-governor-re-open-dj-henry-s-case"
 )
 
 Person.create(
@@ -512,7 +529,8 @@ Person.create(
     Servin claimed he fired because someone in the group was holding a gun, but it was actually only a cellphone. Witnesses said that Servin appeared drunk at the time of the incident.
     In November 2015, Chicago Mayor Rahm Emanuel and police superintendent Garry McCarthy both suggested that Dante Servin should be fired by the Chicago Police Board. The city paid $4.5 million to Boyd's family.
     Servin resigned on May 17, 2016, two days before the departmental hearing which was to decide whether he should be fired.",
-    image: "https://chicago.cbslocal.com/wp-content/uploads/sites/15116062/2015/04/rekia-boyd.jpg"
+    image: "https://chicago.cbslocal.com/wp-content/uploads/sites/15116062/2015/04/rekia-boyd.jpg",
+    petition: "https://www.change.org/p/office-of-the-chicago-governor-reopen-rekia-boyd-s-case"
 )
 
 Person.create(
@@ -529,7 +547,8 @@ Person.create(
     One shot hit and pierced a bottle on an outdoor table, knocking it to the ground, and the other struck the doorway, almost hitting McAtee's niece in the head. At the time, the pepper ball shots may not have been distinguishable from other ammunition. In response, McAtee grabbed his gun and appears to have fired. The Guardian wrote that the video shows that McAtee 'raises his arm in the air', which is 'a motion consistent with firing a warning shot'.
     On June 9, the governor's office said that lab tests from the case concluded that McAtee was killed from a single gunshot by a National Guard soldier. In total, two officers and two guardsmen fired at least 19 shots in McAtee's direction. McAtee was determined to have fired twice with a 9 mm pistol. According to officials, McAtee's shots prompted law enforcement's return fire, which killed him. The identities of the soldiers involved in the shooting have not been released.",
     image: "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/8/e3/8e3a90c8-a9a2-11ea-a72c-b379a3bd2f0d/5ede62ee684f3.image.jpg?resize=1200%2C675",
-    donation: "https://www.gofundme.com/f/justicefordavidmcatee"
+    donation: "https://www.gofundme.com/f/justicefordavidmcatee",
+    petition: "https://www.change.org/p/louisville-mayor-greg-fischer-justice-for-david-mcatee"
 )
 
 Person.create(
@@ -549,7 +568,8 @@ Person.create(
     Hankison was formally fired four days later (June 23); he had ten days (until July 3) to appeal his termination to the Louisville Police Merit Board. That appeal was delayed until the criminal investigation is finished. On September 15, the city of Louisville agreed to pay Taylor's family $12 million and reform police practices. On September 23, 2020, a state grand jury indicted Hankison on three counts of wanton endangerment for endangering a neighboring white family of three when shots he fired penetrated their apartment. Bullets also entered the above apartment of a black family, but no counts were filed. Neither Hankison nor the two other officers involved in the raid were indicted for Taylor's death. Conviction could include a sentence of up to five years in prison and a fine for each count. Cameron said the FBI investigation was still ongoing.
     The Louisville Courier Journal raised questions about whether the grand jury was allowed to decide if charges should have been pressed against Mattingly and Cosgrove or if prosecutors decided that the officers acted in self-defense without submitting the issue to the grand jury. Attorneys for Hankison and Walker requested the release of the grand jury transcript and related evidence. On September 28, after an anonymous juror filed a motion to have the grand jury proceedings' recording released, Cameron announced that it will be.",
     image: "https://s.abcnews.com/images/US/breonna-01-as-ht-200513_hpMain_16x9_992.jpg",
-    donation: "https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor"
+    donation: "https://www.gofundme.com/f/9v4q2-justice-for-breonna-taylor",
+    petition: "https://www.change.org/p/andy-beshear-justice-for-breonna-taylor"
 )
 
 Person.create(
@@ -569,7 +589,8 @@ Person.create(
     In February 2018, a jury of 6 women awarded more than $37 million (more than $36 million by other accounts) in damages to the Gaines family after finding that the first shot, fired by Royce Ruby and killing Gaines, was not reasonable, and thus violated their civil rights.
     A statement from Baltimore County government attorney Mike Field said the county was disappointed with the verdict and reviewing its options, including an appeal. On March 19, 2018, Baltimore County filed an appeal. On February 14, 2019, Judge Mickey J. Norman dismissed the original complaint and consequently remitted the award of over $37 million. The family had stated they would file an appeal. On Wednesday, July 1, 2020, after appealing and having the case heard by a second jury, jurors reinstated the original $38 Million verdict, $32 Million of which will go to Gaines' son.",
     image: "https://i.guim.co.uk/img/media/b326a707c8832eede5e72df2e88474622f122c1a/0_197_934_560/934.jpg?width=640&quality=85&auto=format&fit=max&s=4380ad32c1e5b18b275eb98eb93cb289",
-    donation: "https://www.gofundme.com/f/2hkxmz8"
+    donation: "https://www.gofundme.com/f/2hkxmz8",
+    petition: "https://www.change.org/p/human-rights-campaign-stop-excessive-force-reopen-the-case-of-korryn-gaines"
 )
 
 Person.create(
@@ -627,7 +648,8 @@ Person.create(
     At the behest of Gregory McMichael, a local attorney provided a copy of the video of the shooting to local radio station WGIG, who posted it to their website on May 5. The video went viral, having also been posted on YouTube and Twitter. Within hours, District Attorney Tom Durden said a grand jury would decide whether charges would be brought, and accepted an offer from Governor Brian Kemp to have the Georgia Bureau of Investigation (GBI) investigate the case.
     The GBI arrested the McMichaels on May 7 and Bryan on May 21, charging them with felony murder and other crimes. On June 4, additional evidence was presented by the prosecutor to support the murder charges, including a statement to the GBI by William Bryan that Travis McMichael said 'fucking nigger' as Arbery lay dying. A grand jury subsequently indicted each of the three men on charges of malice murder, felony murder (4 counts), aggravated assault (2 counts), false imprisonment and criminal attempt to commit false imprisonment.
     The fact that the McMichaels were not arrested until 74 days after the killing, after the video went viral, sparked debates on racial profiling in the United States. Numerous religious leaders, politicians, athletes, and other celebrities condemned the incident. The GCPD and the Brunswick District Attorney's Office were nationally criticized for their handling of the case and the delayed arrests; Georgia Attorney General Christopher M. Carr formally requested the intervention of the Federal Bureau of Investigation in the case on May 10, which was granted the following day.",
-    image: "https://s3.amazonaws.com/CFSV2/obituaries/photos/6236/599769/5e59d5b4e32ef.jpg"
+    image: "https://s3.amazonaws.com/CFSV2/obituaries/photos/6236/599769/5e59d5b4e32ef.jpg",
+    petition: "https://www.change.org/p/district-attorney-tom-durden-justice-for-ahmaud-arbery-i-run-with-maud"
 )
 
 Person.create(
@@ -642,7 +664,8 @@ Person.create(
     aftermath: "The investigation was carried out by the Wisconsin Division of Criminal Investigation, a statewide agency, but the lead agents for the investigation were former Milwaukee police officers.
     The Milwaukee County District Attorney's Office conducted an investigation. In December 2014, District Attorney John Chisholm found the use of force to be in self-defense and declined to prosecute. A federal investigation took place, and was closed in November 2015, with federal authorities determining that there was insufficient evidence to pursue federal criminal civil rights charges against Manney. As a result of the shooting and subsequent protests, Milwaukee police officers were equipped with body cameras.",
     image: "https://www.gannett-cdn.com/-mm-/c02f668068a9a17710ea0a65b0852b77c5b63e2c/c=0-33-430-606/local/-/media/2014/12/22/USATODAY/USATODAY/635548451048826855-AP-Police-Crisis-Training.jpg?width=300&height=400&fit=crop&format=pjpg&auto=webp",
-    donation: "https://www.gofundme.com/f/friendsofmaria"
+    donation: "https://www.gofundme.com/f/friendsofmaria",
+    petition: "https://campaigns.organizefor.org/petitions/justice-for-dontre-demand-federal-charges"
 )
 
 Person.create(
@@ -663,5 +686,6 @@ Person.create(
     Craig Lally, the president of the LAPPL, criticized the ruling, and claimed the Board had dealt with the officers severely to prevent civil unrest. Lally and other LAPPL officials addressed Commissioners at the Board's first public meeting following the decision, where he criticized Commissioner Paula Madison for comments she made on KNBC, in which she compared changing use of force laws to changing laws that once condoned slavery or barred women from voting. Lally described Madison's remarks as 'disturbing and insulting.' Lally also described Ford as a 'known gang member'.
     Garcetti commented on the Board of Police Commissioner's report on June 13, 2015. He said 'I think it's so important for law enforcement officers to know that they are supported,' and emphasized the need 'to strengthen the bonds between community and between police.' Garcetti also met with Tribotia Ford, and told reporters 'It was a really beautiful meeting between the two of us, I think'. Ford said she was grateful to the mayor but the meeting had come '10 months late.'",
     image: "https://www.blackpast.org/wp-content/uploads/Ezell_Ford.jpg",
-    donation: "https://www.gofundme.com/f/justice4ezellford"
+    donation: "https://www.gofundme.com/f/justice4ezellford",
+    petition: "https://www.change.org/p/los-angeles-district-attorney-jackie-lacey-justice-for-ezell-ford"
 )
