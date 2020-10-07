@@ -672,7 +672,7 @@ Person.create(
     name: "Ezell Ford",
     birthdate: Date.new(1988, 10, 14),
     deathdate: Date.new(2014, 8, 11),
-    deathdate: Date.new(2014, 8, 11),
+    incident_date: Date.new(2014, 8, 11),
     age: 25,
     location: "Los Angeles, CA",
     police_involved: ["Sharlton Wampler", "Antonio Villegas"],
